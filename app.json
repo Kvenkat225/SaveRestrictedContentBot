@@ -45,7 +45,7 @@
         }
     ],
      "formation": {
-       "worker": {
+       "Drone": {
          "quantity": 1,
          "size": "eco"
        }
