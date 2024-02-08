@@ -45,10 +45,10 @@
         }
     ],
      "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "eco"
-    }
+       "worker": {
+         "quantity": 1,
+         "size": "eco"
+       }
      }
 }
 
